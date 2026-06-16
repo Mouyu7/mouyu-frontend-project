@@ -13,6 +13,8 @@ The goal is to practice basic frontend skills step by step, including HTML, CSS,
 
 A simple single-page CV built with semantic HTML.
 
+https://roadmap.sh/projects/single-page-cv
+
 #### Features
 
 * Semantic HTML structure
